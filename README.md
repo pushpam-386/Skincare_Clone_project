@@ -1,3 +1,5 @@
 # Skincare_Clone_project
 HTML, CSS and JS
-https://drive.google.com/file/d/1GKgEFJ5uAPTYD9tELaeyYuXsPBNpLhQe/view?usp=sharing
+SkinCare website clone by HTML, CSS and JavaScript for Structure, Style and Responsiveness.
+![alt text](https://ibb.co/C5g8x4N)
+
